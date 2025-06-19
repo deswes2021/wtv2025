@@ -1,480 +1,82 @@
 #EXTM3U
-#EXTINF: tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/actualizar.jpg" group-title="opciones", actualizar
-actualizar
-#EXTINF: tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/activar.jpg" group-title="opciones", activar teleclub
-https://tv.teleclub.xyz/activar
-#EXTINF: tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/borrarcache.jpg" group-title="opciones", borrar cache
-borrarcache
 
-#EXTLST CANALES NACIONALES
-#EXTINF: tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/tvnaccanal1.jpg" group-title="nacional", canal 1
-000000000000
-#EXTINF: tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/tvnaccanal2.jpg" group-title="nacional", canal 2
-000000000000
-#EXTINF: tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/tvnaccanal3.jpg" group-title="nacional", canal 3
-000000000000
-#EXTINF: tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/tvnaccanal4.jpg" group-title="nacional", canal 4
-000000000000
-#EXTINF: tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/tvnaccanal5.jpg" group-title="nacional", canal 5
-000000000000
-#EXTINF: tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/tvnaccanal6.jpg" group-title="nacional", canal 6
-000000000000
-#EXTINF: tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/tvnaccanal7.jpg" group-title="nacional", canal 7
-000000000000
-#EXTINF: tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/tvnaccanal8.jpg" group-title="nacional", canal 8
-000000000000
-#EXTINF: tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/tvnaccanal9.jpg" group-title="nacional", canal 9
-000000000000
-#EXTINF: tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/tvnaccanal10.jpg" group-title="nacional", canal 10
-000000000000
-#EXTINF: tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/tvnaccanal11.jpg" group-title="nacional", canal 11
-000000000000
-#EXTINF: tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/tvnaccanal12.jpg" group-title="nacional", canal 12
-000000000000
-#EXTINF: tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/tvnaccanal19.jpg" group-title="nacional", canal 19
-000000000000
-#EXTINF: tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/tvnaccanal21.jpg" group-title="nacional", canal 21
-000000000000
+#EXTLST CANALES OPCION
+#EXTINF: nombre="actualizar" tipo="opcion" logo="actualizar" url="actualizar"
+#EXTINF: nombre="activar" tipo="opcion" logo="activar" url="https://tv.teleclub.xyz/activar"
+#EXTINF: nombre="borrarcache" tipo="opcion" logo="borrarcache" url="borrarcache"
 
-#EXTLST CANALES TELECLUB
-#EXTINF: tvg-id="beinsportsextran_2" tvg-logo="https://img.teleclub.xyz/beinsportsn.png" group-title="Deportes", Bein Sports Extra Ñ
-http://tv.teleclub.xyz/stream/server_2/deportes/beinsportsextran/master.m3u8
-#EXTINF: tvg-id="directvsports_2" tvg-logo="https://img.teleclub.xyz/directvsports.png" group-title="Deportes", Directv Sports
-http://tv.teleclub.xyz/stream/server_2/deportes/directvsports/master.m3u8
-#EXTINF: tvg-id="directvsportsplus_2" tvg-logo="https://img.teleclub.xyz/directvsports.png" group-title="Deportes", Directv Sports +
-http://tv.teleclub.xyz/stream/server_2/deportes/directvsportsplus/master.m3u8
-#EXTINF: tvg-id="directvsports2_2" tvg-logo="https://img.teleclub.xyz/directvsports2.png" group-title="Deportes", Directv Sports 2
-http://tv.teleclub.xyz/stream/server_2/deportes/directvsports2/master.m3u8
-#EXTINF: tvg-id="espn1_2" tvg-logo="https://img.teleclub.xyz/espn.png" group-title="Deportes", ESPN 1
-http://tv.teleclub.xyz/stream/server_2/deportes/espn1/master.m3u8
-#EXTINF: tvg-id="espn2_2" tvg-logo="https://img.teleclub.xyz/espn2.png" group-title="Deportes", ESPN 2
-http://tv.teleclub.xyz/stream/server_2/deportes/espn2/master.m3u8
-#EXTINF: tvg-id="espn3_2" tvg-logo="https://img.teleclub.xyz/espn3.png" group-title="Deportes", ESPN 3
-http://tv.teleclub.xyz/stream/server_2/deportes/espn3/master.m3u8
-#EXTINF: tvg-id="espn4_2" tvg-logo="https://img.teleclub.xyz/espn4.png" group-title="Deportes", ESPN 4
-http://tv.teleclub.xyz/stream/server_2/deportes/espn4/master.m3u8
-#EXTINF: tvg-id="espn5_2" tvg-logo="https://img.teleclub.xyz/espn.png" group-title="Deportes", ESPN 5
-http://tv.teleclub.xyz/stream/server_2/deportes/espn5/master.m3u8
-#EXTINF: tvg-id="espnpremium_2" tvg-logo="https://img.teleclub.xyz/espnpremium.png" group-title="Deportes", ESPN Premium
-http://tv.teleclub.xyz/stream/server_2/deportes/espnpremium/master.m3u8
-#EXTINF: tvg-id="foxsports1_2" tvg-logo="https://img.teleclub.xyz/foxsports.png" group-title="Deportes", Fox Sports 1
-http://tv.teleclub.xyz/stream/server_2/deportes/foxsports1/master.m3u8
-#EXTINF: tvg-id="foxsports1mx_2" tvg-logo="https://img.teleclub.xyz/foxsports.png" group-title="Deportes", Fox Sports 1 MX
-http://tv.teleclub.xyz/stream/server_2/deportes/foxsports1mx/master.m3u8
-#EXTINF: tvg-id="foxsports2_2" tvg-logo="https://img.teleclub.xyz/foxsports2.png" group-title="Deportes", Fox Sports 2
-http://tv.teleclub.xyz/stream/server_2/deportes/foxsports2/master.m3u8
-#EXTINF: tvg-id="foxsports2mx_3" tvg-logo="https://img.teleclub.xyz/foxsports2.png" group-title="Deportes", Fox Sports 2 MX
-http://tv.teleclub.xyz/stream/server_3/deportes/foxsports2mx/master.m3u8
-#EXTINF: tvg-id="foxsports2mx_2" tvg-logo="https://img.teleclub.xyz/foxsports2.png" group-title="Deportes", Fox Sports 2 MX
-http://tv.teleclub.xyz/stream/server_2/deportes/foxsports2mx/master.m3u8
-#EXTINF: tvg-id="foxsports3_2" tvg-logo="https://img.teleclub.xyz/foxsports3.png" group-title="Deportes", Fox Sports 3
-http://tv.teleclub.xyz/stream/server_2/deportes/foxsports3/master.m3u8
-#EXTINF: tvg-id="foxsports3mx_2" tvg-logo="https://img.teleclub.xyz/foxsports3.png" group-title="Deportes", Fox Sports 3 MX
-http://tv.teleclub.xyz/stream/server_2/deportes/foxsports3mx/master.m3u8
-#EXTINF: tvg-id="foxsportspremiummx_2" tvg-logo="https://img.teleclub.xyz/foxsportspremium.png" group-title="Deportes", Fox Sports Premium MX
-http://tv.teleclub.xyz/stream/server_2/deportes/foxsportspremiummx/master.m3u8
-#EXTINF: tvg-id="golperu_2" tvg-logo="https://img.teleclub.xyz/golperu.png" group-title="Deportes", Gol Peru
-http://tv.teleclub.xyz/stream/server_2/deportes/golperu/master.m3u8
-#EXTINF: tvg-id="goltv_2" tvg-logo="https://img.teleclub.xyz/goltv.png" group-title="Deportes", Gol TV
-http://tv.teleclub.xyz/stream/server_2/deportes/goltv/master.m3u8
-#EXTINF: tvg-id="tntsports_2" tvg-logo="https://img.teleclub.xyz/tntsports.png" group-title="Deportes", TNT Sports
-http://tv.teleclub.xyz/stream/server_2/deportes/tntsports/master.m3u8
-#EXTINF: tvg-id="tudn_2" tvg-logo="https://img.teleclub.xyz/tudn.png" group-title="Deportes", TUDN
-http://tv.teleclub.xyz/stream/server_2/deportes/tudn/master.m3u8
-#EXTINF: tvg-id="tycsports_2" tvg-logo="https://img.teleclub.xyz/tycsports.png" group-title="Deportes", TyC Sports
-http://tv.teleclub.xyz/stream/server_2/deportes/tycsports/master.m3u8
-#EXTINF: tvg-id="winsportsplus_2" tvg-logo="https://img.teleclub.xyz/winsportsplus.png" group-title="Deportes", Win Sports Plus
-http://tv.teleclub.xyz/stream/server_2/deportes/winsportsplus/master.m3u8
-#EXTINF: tvg-id="cartoonnetwork_1" tvg-logo="https://img.teleclub.xyz/cartoonnetwork.png" group-title="Infantil", Cartoon Network
-http://tv.teleclub.xyz/stream/server_1/infantil/cartoonnetwork/master.m3u8
-#EXTINF: tvg-id="cartoonnetwork_3" tvg-logo="https://img.teleclub.xyz/cartoonnetwork.png" group-title="Infantil", Cartoon Network
-http://tv.teleclub.xyz/stream/server_3/infantil/cartoonnetwork/master.m3u8
-#EXTINF: tvg-id="cartoonito_1" tvg-logo="https://img.teleclub.xyz/cartoonito.png" group-title="Infantil", Cartoonito
-http://tv.teleclub.xyz/stream/server_1/infantil/cartoonito/master.m3u8
-#EXTINF: tvg-id="discoverykids_1" tvg-logo="https://img.teleclub.xyz/discoverykids.png" group-title="Infantil", Discovery Kids
-http://tv.teleclub.xyz/stream/server_1/infantil/discoverykids/master.m3u8
-#EXTINF: tvg-id="disney_channel_1" tvg-logo="https://img.teleclub.xyz/disneychannel.png" group-title="Infantil", Disney Channel
-http://tv.teleclub.xyz/stream/server_1/infantil/disney_channel/master.m3u8
-#EXTINF: tvg-id="disney_jr_1" tvg-logo="https://img.teleclub.xyz/disneyjr.png" group-title="Infantil", Disney Jr
-http://tv.teleclub.xyz/stream/server_1/infantil/disney_jr/master.m3u8
-#EXTINF: tvg-id="energeek_retro_0" tvg-logo="https://energeek.cl/wp-content/uploads/2024/10/energeekstream.png" group-title="Infantil", Energeek Retro
-http://tv.teleclub.xyz/stream/server_0/infantil/energeek_retro/master.m3u8
-#EXTINF: tvg-id="nick_1" tvg-logo="https://img.teleclub.xyz/nick.png" group-title="Infantil", Nick
-http://tv.teleclub.xyz/stream/server_1/infantil/nick/master.m3u8
-#EXTINF: tvg-id="tooncast_1" tvg-logo="https://img.teleclub.xyz/tooncast.png" group-title="Infantil", Tooncast
-http://tv.teleclub.xyz/stream/server_1/infantil/tooncast/master.m3u8
-#EXTINF: tvg-id="atv_1" tvg-logo="https://img.teleclub.xyz/atvl.png" group-title="Mundo", ATV
-http://tv.teleclub.xyz/stream/server_1/mundo/atv/master.m3u8
-#EXTINF: tvg-id="azteca7_1" tvg-logo="https://img.teleclub.xyz/azteca7.png" group-title="Mundo", Azteca 7
-http://tv.teleclub.xyz/stream/server_1/mundo/azteca7/master.m3u8
-#EXTINF: tvg-id="aztecauno_1" tvg-logo="https://img.teleclub.xyz/azteca1.png" group-title="Mundo", Azteca Uno
-http://tv.teleclub.xyz/stream/server_1/mundo/aztecauno/master.m3u8
-#EXTINF: tvg-id="canal5_1" tvg-logo="https://img.teleclub.xyz/canal5.png" group-title="Mundo", Canal 5
-http://tv.teleclub.xyz/stream/server_1/mundo/canal5/master.m3u8
-#EXTINF: tvg-id="canal_e_1" tvg-logo="https://img.teleclub.xyz/canale.png" group-title="Mundo", Canal E!
-http://tv.teleclub.xyz/stream/server_1/mundo/canal_e/master.m3u8
-#EXTINF: tvg-id="caracol_1" tvg-logo="https://img.teleclub.xyz/caracol.png" group-title="Mundo", Caracol TV
-http://tv.teleclub.xyz/stream/server_1/mundo/caracol/master.m3u8
-#EXTINF: tvg-id="dwchannel_1" tvg-logo="https://img.teleclub.xyz/dwchannel.png" group-title="Mundo", DW Channel
-http://tv.teleclub.xyz/stream/server_1/mundo/dwchannel/master.m3u8
-#EXTINF: tvg-id="ecuavisa_1" tvg-logo="https://img.teleclub.xyz/ecuavisa.png" group-title="Mundo", Ecuavisa
-http://tv.teleclub.xyz/stream/server_1/mundo/ecuavisa/master.m3u8
-#EXTINF: tvg-id="eltrece_1" tvg-logo="https://img.teleclub.xyz/trecel.png" group-title="Mundo", El Trece
-http://tv.teleclub.xyz/stream/server_1/mundo/eltrece/master.m3u8
-#EXTINF: tvg-id="galavision_1" tvg-logo="https://img.teleclub.xyz/galavson.png" group-title="Mundo", Galavisión
-http://tv.teleclub.xyz/stream/server_1/mundo/galavision/master.m3u8
-#EXTINF: tvg-id="imagenmx_1" tvg-logo="https://img.teleclub.xyz/imagentv.png" group-title="Mundo", Imagen TV
-http://tv.teleclub.xyz/stream/server_1/mundo/imagenmx/master.m3u8
-#EXTINF: tvg-id="lasestrellas_1" tvg-logo="https://img.teleclub.xyz/lasestrellas.png" group-title="Mundo", Las Estrellas
-http://tv.teleclub.xyz/stream/server_1/mundo/lasestrellas/master.m3u8
-#EXTINF: tvg-id="latina_1" tvg-logo="https://img.teleclub.xyz/latinatv.png" group-title="Mundo", Latina TV
-http://tv.teleclub.xyz/stream/server_1/mundo/latina/master.m3u8
-#EXTINF: tvg-id="pasiones_1" tvg-logo="https://img.teleclub.xyz/pasiones.png" group-title="Mundo", Pasiones
-http://tv.teleclub.xyz/stream/server_1/mundo/pasiones/master.m3u8
-#EXTINF: tvg-id="rcn_1" tvg-logo="https://img.teleclub.xyz/rcn.png" group-title="Mundo", RCN
-http://tv.teleclub.xyz/stream/server_1/mundo/rcn/master.m3u8
-#EXTINF: tvg-id="rcn_3" tvg-logo="https://img.teleclub.xyz/rcn.png" group-title="Mundo", RCN
-http://tv.teleclub.xyz/stream/server_3/mundo/rcn/master.m3u8
-#EXTINF: tvg-id="telefe_1" tvg-logo="https://img.teleclub.xyz/telefe.png" group-title="Mundo", Telefe
-http://tv.teleclub.xyz/stream/server_1/mundo/telefe/master.m3u8
-#EXTINF: tvg-id="telemundopuertorico_1" tvg-logo="https://img.teleclub.xyz/telemundo.png" group-title="Mundo", Telemundo Puerto Rico
-http://tv.teleclub.xyz/stream/server_1/mundo/telemundopuertorico/master.m3u8
-#EXTINF: tvg-id="tlc_1" tvg-logo="https://img.teleclub.xyz/tlc.png" group-title="Mundo", TLC
-http://tv.teleclub.xyz/stream/server_1/mundo/tlc/master.m3u8
-#EXTINF: tvg-id="tlnovelas_3" tvg-logo="https://img.teleclub.xyz/tlnovelas.png" group-title="Mundo", tlnovelas
-http://tv.teleclub.xyz/stream/server_3/mundo/tlnovelas/master.m3u8
-#EXTINF: tvg-id="tlnovelas_1" tvg-logo="https://img.teleclub.xyz/tlnovelas.png" group-title="Mundo", tlnovelas
-http://tv.teleclub.xyz/stream/server_1/mundo/tlnovelas/master.m3u8
-#EXTINF: tvg-id="unicable_1" tvg-logo="https://img.teleclub.xyz/unicable.png" group-title="Mundo", Unicable
-http://tv.teleclub.xyz/stream/server_1/mundo/unicable/master.m3u8
-#EXTINF: tvg-id="univision_1" tvg-logo="https://img.teleclub.xyz/univision.png" group-title="Mundo", Univisión
-http://tv.teleclub.xyz/stream/server_1/mundo/univision/master.m3u8
-#EXTINF: tvg-id="willaxtv_1" tvg-logo="https://img.teleclub.xyz/willaxtv.png" group-title="Mundo", Willax TV
-http://tv.teleclub.xyz/stream/server_1/mundo/willaxtv/master.m3u8
-#EXTINF: tvg-id="animalplanet_1" tvg-logo="https://img.teleclub.xyz/animalplanet.png" group-title="Cultura", Animal Planet
-http://tv.teleclub.xyz/stream/server_1/cultura/animalplanet/master.m3u8
-#EXTINF: tvg-id="discoverychannel_1" tvg-logo="https://img.teleclub.xyz/discoverychannel.png" group-title="Cultura", Discovery Channel
-http://tv.teleclub.xyz/stream/server_1/cultura/discoverychannel/master.m3u8
-#EXTINF: tvg-id="discoveryh_h_1" tvg-logo="https://img.teleclub.xyz/discoveryhh.png" group-title="Cultura", Discovery H & H
-http://tv.teleclub.xyz/stream/server_1/cultura/discoveryh_h/master.m3u8
-#EXTINF: tvg-id="discoveryscience_1" tvg-logo="https://img.teleclub.xyz/discoverysci.png" group-title="Cultura", Discovery Science
-http://tv.teleclub.xyz/stream/server_1/cultura/discoveryscience/master.m3u8
-#EXTINF: tvg-id="discoverytheater_1" tvg-logo="https://img.teleclub.xyz/discoverytheater.png" group-title="Cultura", Discovery Theater
-http://tv.teleclub.xyz/stream/server_1/cultura/discoverytheater/master.m3u8
-#EXTINF: tvg-id="discoveryturbo_1" tvg-logo="https://img.teleclub.xyz/discoveryturbo.png" group-title="Cultura", Discovery Turbo
-http://tv.teleclub.xyz/stream/server_1/cultura/discoveryturbo/master.m3u8
-#EXTINF: tvg-id="discoveryworld_1" tvg-logo="https://img.teleclub.xyz/discoveryworld.png" group-title="Cultura", Discovery World
-http://tv.teleclub.xyz/stream/server_1/cultura/discoveryworld/master.m3u8
-#EXTINF: tvg-id="elgourmet_1" tvg-logo="https://img.teleclub.xyz/elgourmet.png" group-title="Cultura", El Gourmet
-http://tv.teleclub.xyz/stream/server_1/cultura/elgourmet/master.m3u8
-#EXTINF: tvg-id="h2_1" tvg-logo="https://img.teleclub.xyz/h2.png" group-title="Cultura", H2
-http://tv.teleclub.xyz/stream/server_1/cultura/h2/master.m3u8
-#EXTINF: tvg-id="history_1" tvg-logo="https://img.teleclub.xyz/history.png" group-title="Cultura", History
-http://tv.teleclub.xyz/stream/server_1/cultura/history/master.m3u8
-#EXTINF: tvg-id="history_3" tvg-logo="https://img.teleclub.xyz/history.png" group-title="Cultura", History
-http://tv.teleclub.xyz/stream/server_3/cultura/history/master.m3u8
-#EXTINF: tvg-id="discoveryid_1" tvg-logo="https://img.teleclub.xyz/did.png" group-title="Cultura", ID
-http://tv.teleclub.xyz/stream/server_1/cultura/discoveryid/master.m3u8
-#EXTINF: tvg-id="nationalgeographic_1" tvg-logo="https://img.teleclub.xyz/natgeo.png" group-title="Cultura", National Geographic
-http://tv.teleclub.xyz/stream/server_1/cultura/nationalgeographic/master.m3u8
-#EXTINF: tvg-id="a_e_1" tvg-logo="https://img.teleclub.xyz/ae.png" group-title="Entretenimiento", A & E
-http://tv.teleclub.xyz/stream/server_1/entretenimiento/a_e/master.m3u8
-#EXTINF: tvg-id="amc_1" tvg-logo="https://img.teleclub.xyz/amc.png" group-title="Entretenimiento", AMC
-http://tv.teleclub.xyz/stream/server_1/entretenimiento/amc/master.m3u8
-#EXTINF: tvg-id="axn_1" tvg-logo="https://img.teleclub.xyz/axn.png" group-title="Entretenimiento", AXN
-http://tv.teleclub.xyz/stream/server_1/entretenimiento/axn/master.m3u8
-#EXTINF: tvg-id="axn_3" tvg-logo="https://img.teleclub.xyz/axn.png" group-title="Entretenimiento", AXN
-http://tv.teleclub.xyz/stream/server_3/entretenimiento/axn/master.m3u8
-#EXTINF: tvg-id="cinecanal_1" tvg-logo="https://img.teleclub.xyz/cinecanal.png" group-title="Entretenimiento", Cinecanal
-http://tv.teleclub.xyz/stream/server_1/entretenimiento/cinecanal/master.m3u8
-#EXTINF: tvg-id="cinecanal_3" tvg-logo="https://img.teleclub.xyz/cinecanal.png" group-title="Entretenimiento", Cinecanal
-http://tv.teleclub.xyz/stream/server_3/entretenimiento/cinecanal/master.m3u8
-#EXTINF: tvg-id="cinemax_3" tvg-logo="https://img.teleclub.xyz/cinemax.png" group-title="Entretenimiento", Cinemax
-http://tv.teleclub.xyz/stream/server_3/entretenimiento/cinemax/master.m3u8
-#EXTINF: tvg-id="cinemax_1" tvg-logo="https://img.teleclub.xyz/cinemax.png" group-title="Entretenimiento", Cinemax
-http://tv.teleclub.xyz/stream/server_1/entretenimiento/cinemax/master.m3u8
-#EXTINF: tvg-id="comedycentral_1" tvg-logo="https://img.teleclub.xyz/comedycentral.png" group-title="Entretenimiento", Comedy Central
-http://tv.teleclub.xyz/stream/server_1/entretenimiento/comedycentral/master.m3u8
-#EXTINF: tvg-id="depelicula_1" tvg-logo="https://img.teleclub.xyz/depelicula.png" group-title="Entretenimiento", DePelicula
-http://tv.teleclub.xyz/stream/server_1/entretenimiento/depelicula/master.m3u8
-#EXTINF: tvg-id="dhe_1" tvg-logo="https://img.teleclub.xyz/dhe.png" group-title="Entretenimiento", DHE
-http://tv.teleclub.xyz/stream/server_1/entretenimiento/dhe/master.m3u8
-#EXTINF: tvg-id="distritocomedia_1" tvg-logo="https://img.teleclub.xyz/distritocomedia.png" group-title="Entretenimiento", Distrito Comedia
-http://tv.teleclub.xyz/stream/server_1/entretenimiento/distritocomedia/master.m3u8
-#EXTINF: tvg-id="fx_1" tvg-logo="https://img.teleclub.xyz/fx.png" group-title="Entretenimiento", FX
-http://tv.teleclub.xyz/stream/server_1/entretenimiento/fx/master.m3u8
-#EXTINF: tvg-id="fx_3" tvg-logo="https://img.teleclub.xyz/fx.png" group-title="Entretenimiento", FX
-http://tv.teleclub.xyz/stream/server_3/entretenimiento/fx/master.m3u8
-#EXTINF: tvg-id="golden_3" tvg-logo="https://img.teleclub.xyz/golden.png" group-title="Entretenimiento", Golden
-http://tv.teleclub.xyz/stream/server_3/entretenimiento/golden/master.m3u8
-#EXTINF: tvg-id="golden_1" tvg-logo="https://img.teleclub.xyz/golden.png" group-title="Entretenimiento", Golden
-http://tv.teleclub.xyz/stream/server_1/entretenimiento/golden/master.m3u8
-#EXTINF: tvg-id="goldenedge_1" tvg-logo="https://img.teleclub.xyz/goldenedge.png" group-title="Entretenimiento", Golden Edge
-http://tv.teleclub.xyz/stream/server_1/entretenimiento/goldenedge/master.m3u8
-#EXTINF: tvg-id="goldenplus_1" tvg-logo="https://img.teleclub.xyz/golden.png" group-title="Entretenimiento", Golden Plus
-http://tv.teleclub.xyz/stream/server_1/entretenimiento/goldenplus/master.m3u8
-#EXTINF: tvg-id="goldenpremier_1" tvg-logo="https://img.teleclub.xyz/golden.png" group-title="Entretenimiento", Golden Premier
-http://tv.teleclub.xyz/stream/server_1/entretenimiento/goldenpremier/master.m3u8
-#EXTINF: tvg-id="goldenpremier_3" tvg-logo="https://img.teleclub.xyz/golden.png" group-title="Entretenimiento", Golden Premier
-http://tv.teleclub.xyz/stream/server_3/entretenimiento/goldenpremier/master.m3u8
-#EXTINF: tvg-id="goldenpremier2_1" tvg-logo="https://img.teleclub.xyz/golden.png" group-title="Entretenimiento", Golden Premier 2
-http://tv.teleclub.xyz/stream/server_1/entretenimiento/goldenpremier2/master.m3u8
-#EXTINF: tvg-id="HBO_3" tvg-logo="https://img.teleclub.xyz/hbo.png" group-title="Entretenimiento", HBO
-http://tv.teleclub.xyz/stream/server_3/entretenimiento/HBO/master.m3u8
-#EXTINF: tvg-id="hbo2_3" tvg-logo="https://img.teleclub.xyz/hbo2.png" group-title="Entretenimiento", HBO 2
-http://tv.teleclub.xyz/stream/server_3/entretenimiento/hbo2/master.m3u8
-#EXTINF: tvg-id="hbo_family_3" tvg-logo="https://img.teleclub.xyz/hbofamily.png" group-title="Entretenimiento", HBO Family
-http://tv.teleclub.xyz/stream/server_3/entretenimiento/hbo_family/master.m3u8
-#EXTINF: tvg-id="hbosignature_3" tvg-logo="" group-title="Entretenimiento", HBO Signature
-http://tv.teleclub.xyz/stream/server_3/entretenimiento/hbosignature/master.m3u8
-#EXTINF: tvg-id="hboxtreme_3" tvg-logo="https://img.teleclub.xyz/hboxtreme.png" group-title="Entretenimiento", HBO Xtreme
-http://tv.teleclub.xyz/stream/server_3/entretenimiento/hboxtreme/master.m3u8
-#EXTINF: tvg-id="multipremier_1" tvg-logo="https://img.teleclub.xyz/multipremier.png" group-title="Entretenimiento", Multipremier
-http://tv.teleclub.xyz/stream/server_1/entretenimiento/multipremier/master.m3u8
-#EXTINF: tvg-id="paramountnetwork_1" tvg-logo="https://img.teleclub.xyz/paramount.png" group-title="Entretenimiento", Paramount Network
-http://tv.teleclub.xyz/stream/server_1/entretenimiento/paramountnetwork/master.m3u8
-#EXTINF: tvg-id="sony_3" tvg-logo="https://img.teleclub.xyz/sony.png" group-title="Entretenimiento", Sony
-http://tv.teleclub.xyz/stream/server_3/entretenimiento/sony/master.m3u8
-#EXTINF: tvg-id="sony_1" tvg-logo="https://img.teleclub.xyz/sony.png" group-title="Entretenimiento", Sony
-http://tv.teleclub.xyz/stream/server_1/entretenimiento/sony/master.m3u8
-#EXTINF: tvg-id="space_1" tvg-logo="https://img.teleclub.xyz/space.png" group-title="Entretenimiento", Space
-http://tv.teleclub.xyz/stream/server_1/entretenimiento/space/master.m3u8
-#EXTINF: tvg-id="space_3" tvg-logo="https://img.teleclub.xyz/space.png" group-title="Entretenimiento", Space
-http://tv.teleclub.xyz/stream/server_3/entretenimiento/space/master.m3u8
-#EXTINF: tvg-id="starchannel_1" tvg-logo="https://img.teleclub.xyz/star.png" group-title="Entretenimiento", Star Channel
-http://tv.teleclub.xyz/stream/server_1/entretenimiento/starchannel/master.m3u8
-#EXTINF: tvg-id="starchannel_3" tvg-logo="https://img.teleclub.xyz/star.png" group-title="Entretenimiento", Star Channel
-http://tv.teleclub.xyz/stream/server_3/entretenimiento/starchannel/master.m3u8
-#EXTINF: tvg-id="studiouniversal_3" tvg-logo="https://img.teleclub.xyz/studiouniversal.png" group-title="Entretenimiento", Studio Universal
-http://tv.teleclub.xyz/stream/server_3/entretenimiento/studiouniversal/master.m3u8
-#EXTINF: tvg-id="studiouniversal_1" tvg-logo="https://img.teleclub.xyz/studiouniversal.png" group-title="Entretenimiento", Studio Universasl
-http://tv.teleclub.xyz/stream/server_1/entretenimiento/studiouniversal/master.m3u8
-#EXTINF: tvg-id="tnt_1" tvg-logo="https://img.teleclub.xyz/tnt.png" group-title="Entretenimiento", TNT
-http://tv.teleclub.xyz/stream/server_1/entretenimiento/tnt/master.m3u8
-#EXTINF: tvg-id="tntseries_1" tvg-logo="https://img.teleclub.xyz/tntseries.png" group-title="Entretenimiento", TNT Series
-http://tv.teleclub.xyz/stream/server_1/entretenimiento/tntseries/master.m3u8
-#EXTINF: tvg-id="tntseries_2" tvg-logo="https://img.teleclub.xyz/tntseries.png" group-title="Entretenimiento", TNT Series
-http://tv.teleclub.xyz/stream/server_2/entretenimiento/tntseries/master.m3u8
-#EXTINF: tvg-id="universalcinema_3" tvg-logo="https://img.teleclub.xyz/universalcinema.png" group-title="Entretenimiento", Universal Cinema
-http://tv.teleclub.xyz/stream/server_3/entretenimiento/universalcinema/master.m3u8
-#EXTINF: tvg-id="universalcinema_1" tvg-logo="https://img.teleclub.xyz/universal_cinema.png" group-title="Entretenimiento", Universal Cinema
-http://tv.teleclub.xyz/stream/server_1/entretenimiento/universalcinema/master.m3u8
-#EXTINF: tvg-id="universaltv_3" tvg-logo="https://img.teleclub.xyz/universal.png" group-title="Entretenimiento", Universal TV
-http://tv.teleclub.xyz/stream/server_3/entretenimiento/universaltv/master.m3u8
-#EXTINF: tvg-id="universaltv_1" tvg-logo="https://img.teleclub.xyz/universal.png" group-title="Entretenimiento", Universal TV
-http://tv.teleclub.xyz/stream/server_1/entretenimiento/universaltv/master.m3u8
-#EXTINF: tvg-id="usatv_1" tvg-logo="https://img.teleclub.xyz/usatv.png" group-title="Entretenimiento", USA TV
-http://tv.teleclub.xyz/stream/server_1/entretenimiento/usatv/master.m3u8
-#EXTINF: tvg-id="warnerchannel_1" tvg-logo="https://img.teleclub.xyz/warnerchannel.png" group-title="Entretenimiento", Warner Channel
-http://tv.teleclub.xyz/stream/server_1/entretenimiento/warnerchannel/master.m3u8
-#EXTINF: tvg-id="mtv_1" tvg-logo="https://img.teleclub.xyz/mtv.png" group-title="Musica", mtv
-http://tv.teleclub.xyz/stream/server_1/musica/mtv/master.m3u8
-#EXTINF: tvg-id="telehit_1" tvg-logo="https://img.teleclub.xyz/telehit.png" group-title="Musica", Telehit
-http://tv.teleclub.xyz/stream/server_1/musica/telehit/master.m3u8
-#EXTINF: tvg-id="chespirito_1" tvg-logo="https://img.teleclub.xyz/chespirito.png" group-title="24x7", Chespirito
-http://tv.teleclub.xyz/stream/server_1/24x7/chespirito/master.m3u8
-#EXTINF: tvg-id="dragonballsuper_1" tvg-logo="https://img.teleclub.xyz/dragonballsuper.png" group-title="24x7", Dragon Ball Super
-http://tv.teleclub.xyz/stream/server_1/24x7/dragonballsuper/master.m3u8
-#EXTINF: tvg-id="lossimpsons_1" tvg-logo="https://img.teleclub.xyz/lossimpsons.png" group-title="24x7", Los Simpsons
-http://tv.teleclub.xyz/stream/server_1/24x7/lossimpsons/master.m3u8
+#EXTLST CANALES NACIONAL
+#EXTINF: nombre="canal 1" tipo="nacional" logo="canal1" url="00000000"
+#EXTINF: nombre="canal 2" tipo="nacional" logo="canal2" url="00000000"
+#EXTINF: nombre="canal 3" tipo="nacional" logo="canal3" url="00000000"
+#EXTINF: nombre="canal 4" tipo="nacional" logo="canal4" url="00000000"
+#EXTINF: nombre="canal 5" tipo="nacional" logo="canal5" url="00000000"
+#EXTINF: nombre="canal 6" tipo="nacional" logo="canal6" url="00000000"
+#EXTINF: nombre="canal 7" tipo="nacional" logo="canal7" url="00000000"
+#EXTINF: nombre="canal 8" tipo="nacional" logo="canal8" url="00000000"
+#EXTINF: nombre="canal 9" tipo="nacional" logo="canal9" url="00000000"
+#EXTINF: nombre="canal 10" tipo="nacional" logo="canal10" url="00000000"
+#EXTINF: nombre="canal 11" tipo="nacional" logo="canal11" url="00000000"
+#EXTINF: nombre="canal 12" tipo="nacional" logo="canal12" url="00000000"
+#EXTINF: nombre="canal 19" tipo="nacional" logo="canal19" url="00000000"
+#EXTINF: nombre="canal 21" tipo="nacional" logo="canal21" url="00000000"
 
-/*----------------------------------------------------------------------------------*/
-/*-INFANTILES PERSONAL-*/
-/*----------------------------------------------------------------------------------*/
-tvg-name="Locomotion Tv" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/locomotiontv.jpg" tvg-url="http://51.222.85.85:81/hls/loco/index.m3u8"
-tvg-name="Energeek Fan" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/energeekfan.jpg" tvg-url="https://xui-backend.energeek.cl/live/10/playlist.m3u8?username=ZZDemoIPTVGH&password=mdo96EuqMkTR"
-tvg-name="Energeek" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/energeek.jpg" tvg-url="https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8"
-tvg-name="Ipe Kid" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/ipekid.jpg" tvg-url="https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8"
-tvg-name="Dios Tv Kid" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/diostevekids.jpg" tvg-url="https://s.emisoras.tv:8081/diostevekids/index.m3u8"
-tvg-name="Magic Kid" group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/magickid.jpg" tvg-url="https://magicstream.ddns.net/magicstream/stream.m3u8"
+#EXTLST CANALES INFANTIL
+#EXTINF: nombre="00000000" tipo="infantil" logo="00000000" url="00000000"
 
-/*----------------------------------------------------------------------------------*/
-/*-CINEMAS PERSONAL-*/
-/*----------------------------------------------------------------------------------*/
-tvg-name="Planeta Tv" group-title="entretenimiento" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/planetatv.jpg" tvg-url="https://live.obslivestream.com/planetatv/index.m3u8?PlaylistM3UCL"
-tvg-name="Extrema Tv" group-title="entretenimiento" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/extrematv.jpg" tvg-url="https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8"
-tvg-name="Extrema Action" group-title="entretenimiento" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/extremaaction.jpg" tvg-url="https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8"
-tvg-name="Extrema Classic" group-title="entretenimiento" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/extremaclasic.jpg" tvg-url="https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8"
-tvg-name="Peli Mex" group-title="entretenimiento" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/pelimex.jpg" tvg-url="https://amg00658-amg00658c95-canelatv-international-6696.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pelimexta-canelatvinternational/playlist.m3u8"
-tvg-name="Runtime Movie" group-title="entretenimiento" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/runtimemovie.jpg" tvg-url="https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649"
-tvg-name="Cine Friki" group-title="entretenimiento" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/cinefriki.jpg" tvg-url="https://d2jqgm8hyia1n3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8hl8d0bx6aah/index.m3u8"
-tvg-name="Gringo Tv" group-title="entretenimiento" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/gringotv.jpg" tvg-url="https://amogonetworx-grjngo-2-eu.plex.wurl.tv/playlist.m3u8"
-tvg-name="Runtime Accion" group-title="entretenimiento" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/runtimeaccion.jpg" tvg-url="https://stream.ads.ottera.tv/cl/250524d0p13jp9qljpoi8hmt6g/854x480_1355200_2_f.m3u8?i=728_6125"
-tvg-name="Runtime Series" group-title="entretenimiento" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/runtimeseries.jpg" tvg-url="https://stream.ads.ottera.tv/cl/250524d0p15ao9ght782d14hm0/854x480_1355200_2_f.m3u8?i=728_2152"
-tvg-name="Runtime Clasic" group-title="entretenimiento" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/runtimeclasic.jpg" tvg-url="https://stream.ads.ottera.tv/cl/250524d0p16869us0pbmbsqdj0/854x480_1355200_2_f.m3u8?i=728_3053"
-tvg-name="Rruntime Comedia" group-title="entretenimiento" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/runtimecomedia.jpg" tvg-url="https://stream.ads.ottera.tv/cl/250524d0p1bn1ugvi6ap6tefu0/854x480_1355200_2_f.m3u8?i=1164_6131"
-tvg-name="Cine Romance" group-title="entretenimiento" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/romanceesp.jpg" tvg-url="https://amg00658-amg00658c66-canelatv-international-5554.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cineromanticoappta-canelatvinternational/cb553d177b6c648b9ad43e60d8ef42a4d8243dfc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac48240d5734c6cdd52e8be24b4daddd0c2d34b07c0e49857671ad594f32d5e0110dc51ab07a0e1ca1494d5e2082b00cb27751c09e0a957f378bbdbe306f2c180680585ee2be5da5edf55f43d16aa3e0141a882c4db4d45fc8d54abb9d865399429b7ea4179cc3a3da864187849601046688426188adc7f8fa1ba0ff1fddff96290a9d7d3e471a5af4d1eb942c12a7378ed8659db1d24bf001da8165a06d32a9099b4efe43e28a11b3c6932293acb59f714035b2c55f6e35e2a2c86a408f52cf04c89193a1577989f7066c46c468d636247894f88b2785cd55a5b72f93b56d122a8af117d2f5d7f284654b533b2c81e78d622abe8c2029342617d1bb60de3bd47ba981362d637e45a18c54c089cb64fd032589ad51ce1a17b5dac4d6915e7b82571254ec6fce484542f8743d2cab7da2da0b6587705ede7525ad0c7cc063eca820f090dee72d32a1919211a821bce34a9add2a9d40101542bffb275a056b78d3e56944705acb57ebdecfae265a55a2a783ae8e0378343811531e82adb223ccc0937f6f63ab3911697a1418811796388f722e2e1a894f83e2590ec66c470ae9a838515f16e6ebb99388dbcf04f83fe4c6f33d202c4a21da17003565c7b99d539e69132d623c606e9c8415a63c966d6361d35f8b47cf005d17f401549d/183/768x432_1200000/index.m3u8"
-tvg-name="Cine Sureño" group-title="entretenimiento" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/cinesureño.jpg" tvg-url="https://amg01024-olympusat-cinesureno-ono-ad-h2.amagi.tv/playlist/amg01024-olympusat-cinesureno-ono/cb553d177b6c648b9ad43e60d8ef42a4d8243dfc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac48240d5734c6cdd52e8be24b4daddd0c2d34b07c0e49857671ad594f32d5e0110dc51ab07a0e1ca1494d5e2082b00cb27751c09e0a957f378bbdbe306f2c180680585ee2be5da5edf55e4cde6bf5b9494e882c4db3825fc8d54abb9d855b9d449b27a016cc96a1dad0178686c001046688426188adc7f8fa1ba0ff1fddff96290a9d7d3e471a5af4d1eb942c12a7378ed8659db1d24bf001da8165a06d32a9099b4efe43e28a11b3c6932293acb59f714035b2c55f6e35e2a2c86a408f52cf04c89193a1577989f7066c46c468d636247894f88b2785cd55a5b72f93b56d122a8af117d2f5d7f284654b533b2c81e78d622abe8c2029342617d1bb60de3bd47ba981362d637e45a18c54c089cb64fd032589ad51ce1a17b5dac4d6915e7b82571254ec6fce484542f8743d2cab7da2da0b6587705ede7525ad0c7cc063eca820f090dee72d32a1919211a821bce34a9add2a9d40101542bffb275a056b78d3e56944705acb57ebdecfae265a55a2a783ae8e0378343811531e82adb223ccc0937f6f63ab3911697a1418811796388f722e2e1a894f83e2590ec66c470ae9a838515f16e6ebb99388dbcf04f83fe4c6f33d202c4a21da17003565c7b99d539f611f661bbde18aaeeb1c614341bd22a4047ef8dfc743f487c2bd02/94/848x480_1985360/index.m3u8"
+#EXTLST CANALES 27x7
+#EXTINF: nombre="00000000" tipo="24x7" logo="00000000" url="00000000"
 
-/*----------------------------------------------------------------------------------*/
-/*-MUNDO PERSONAL-*/
-/*----------------------------------------------------------------------------------*/
-tvg-name="Latina Clasic" group-title="Mundo" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/latinaclasic.jpg" tvg-url="https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8"
-tvg-name="Ciudad Magazine" group-title="Mundo" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/ciudadmagazine.jpg" tvg-url="https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8"
-tvg-name="ClasicV" group-title="Mundo" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/clasicv.jpg" tvg-url="https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8"
-tvg-name="13 Reality" group-title="Mundo" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/13reality.jpg" tvg-url="https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8"
-tvg-name="13 Series" group-title="Mundo" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/13series.jpg" tvg-url="https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8"
-tvg-name="13 Festival" group-title="Mundo" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/13festival.jpg" tvg-url="https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8"
-tvg-name="13 Max" group-title="Mundo" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/13max.jpg" tvg-url="http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8"
-tvg-name="Ciudadela Tv" group-title="Mundo" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/ciudadelatv.jpg" tvg-url="https://cp.panelchs.com:1936/8096/8096/playlist.m3u8"
+#EXTLST CANALES CULTURA
+#EXTINF: nombre="00000000" tipo="cultura" logo="00000000" url="00000000"
 
-/*----------------------------------------------------------------------------------*/
-/*-RELIGION PERSONAL-*/
-/*----------------------------------------------------------------------------------*/
-tvg-name="A&R" group-title="Religion" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/ayr.jpg" tvg-url="http://51.222.9.192:3589/stream/play.m3u8"
-tvg-name="Avivamiento Tv" group-title="Religion" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/avivamientotv.jpg" tvg-url="https://ssh101.bozztv.com/ssh101/avivamientotv/playlist.m3u8"
-tvg-name="ABN Tv" group-title="Religion" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/abntv.jpg" tvg-url="https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8"
-tvg-name="Jesus Tv" group-title="Religion" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/jesus98.jpg" tvg-url="https://cdn.streamhispanatv.net:3189/live/jesustvlive.m3u8"
-tvg-name="Cristo Vision" group-title="Religion" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/cristovision.jpg" tvg-url="https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8"
-tvg-name="CTNI Tv" group-title="Religion" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/ctnitv.jpg" tvg-url="https://video1.getstreamhosting.com:1936/8226/8226/playlist.m3u8"
-tvg-name="Dios Tv" group-title="Religion" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/diostv.jpg" tvg-url="https://s.emisoras.tv:8081/diostevetv/index.m3u8"
-tvg-name="EWTN Tv" group-title="Religion" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/ewtntv.jpg" tvg-url="https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8"
-tvg-name="Hosanna Tv" group-title="Religion" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/hosannatv.jpg" tvg-url="https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8"
+#EXTLST CANALES MUNDO
+#EXTINF: nombre="00000000" tipo="mundo" logo="00000000" url="00000000"
 
-/*----------------------------------------------------------------------------------*/
-/*-DEPORTES PERSONAL-*/
-/*----------------------------------------------------------------------------------*/
-tvg-name="Tigo Sport G" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/tigosportguate.jpg" tvg-url="https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8"
-tvg-name="CHV Sport" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/chvsport.jpg" tvg-url="https://mdstrm.com/live-stream-playlist/6531749eaf244059b3ade17b.m3u8?PlaylistM3UCL"
+#EXTLST CANALES NOVELAS
+#EXTINF: nombre="00000000" tipo="novelas" logo="00000000" url="00000000"
 
-/*----------------------------------------------------------------------------------*/
-/*-MUSICA PERSONAL-*/
-/*----------------------------------------------------------------------------------*/
-tvg-name="Ctv internacional"group-title="Musica" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/ctvinternacional.png" tvg-url="https://mediacp.us:8081/ctvhn/index.m3u8"
-tvg-name="VM Latino"group-title="Musica" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/vmlatino.png" tvg-url="https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8"
-tvg-name="Mundo de la Musica TV"group-title="Musica" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/mundodelamusicatv.png" tvg-url="https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL"
-tvg-name="Recuerdos Retro Radio TV"group-title="Musica" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/recuerdosretroradiotv.png" tvg-url="https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL"
-tvg-name="Retro Plus TV"group-title="Musica" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/retroplustv.png" tvg-url="https://tls-cl.cdnz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8?PlaylistM3UCL"
-tvg-name="Retro Plus TV Señal 2"group-title="Musica" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/retroplustvseñal2.png" tvg-url="https://ssh101.bozztv.com/ssh101/retroplustv2/playlist.m3u8?PlaylistM3UCL"
-tvg-name="Ruidos TV"group-title="Musica" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/ruidostv.png" tvg-url="https://stream.skarnetchile.com:19360/ruidostv/ruidostv.m3u8?PlaylistM3UCL"
-tvg-name="Urban TV"group-title="Musica" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/urbantv.png" tvg-url="https://urbanrevolution.es:8443/live/TV/playlist.m3u8?PlaylistM3UCL"
-tvg-name="Cadena Elite | ES"group-title="Musica" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/cadenaelite.png" tvg-url="https://cloudvideo.servers10.com:8081/8004/index.m3u8?PlaylistM3UCL"
-tvg-name="Canal VM Latino | CR"group-title="Musica" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/canalvmlatino.png" tvg-url="https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?PlaylistM3UCL"
+#EXTLST CANALES CINE
+#EXTINF: nombre="00000000" tipo="cine" logo="00000000" url="00000000"
 
-/*----------------------------------------------------------------------------------*/
-/*-YTBOeste-*/
-/*----------------------------------------------------------------------------------*/
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/porunosdolares.jpg" tvg-name="Por unos dolares mas" tvg-url="22LUQT2MuXk.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/elbuenoelmaloyelfeo.jpg" tvg-name="El bueno el malo y elfeo" tvg-url="NXVSV4UKz-4.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/elultimopistolero.jpg" tvg-name="el ultimo pistolero" tvg-url="IZ_vtx3kC4s.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/lavenganzadefrankjames.jpg" tvg-name="Venganza de Frank" tvg-url="_emI0fhXszw.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/barroenlosojos.jpg" tvg-name="Barro en los ojos" tvg-url="Q_yYNKUwTc8.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/unmalditoamanecer.jpg" tvg-name=" Maldito amanecer" tvg-url="-UoUvcu5lGk.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/lamuertenocuentalosdolares.jpg" tvg-name="Mmuerte no cuenta dolares" tvg-url="5FA2MXpUMWw.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/lasombradesartana.jpg" tvg-name="Sombra de sartana" tvg-url="ycW9U9eQ5Rs.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/masalladelaley.jpg" tvg-name="masalladelaley" tvg-url="Uq0ChAeYO5w.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/django.jpg" tvg-name="django" tvg-url="PJoIQcBl4QU.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/regresoacasadeunvaquero.jpg" tvg-name="regreso del vaquero" tvg-url="fSJmNgkCqks.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/unhombreuncaballounapistola.jpg" tvg-name="Hombre caballo pistola" tvg-url="GyoMx-kkWaw.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/los4defortapache.jpg" tvg-name="4 de fort apache" tvg-url="QhtmoKK44FQ.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/unagujeroenlafrente.jpg" tvg-name="un agujero en la frente" tvg-url="p2xqPYogeIw.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/justiciacalibre45.jpg" tvg-name="justicia calibre 45" tvg-url="DzUvg9y5Hac.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/lellamabantrinidad.jpg" tvg-name="le llamaban trinidad" tvg-url="ChzXUUU76lg.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/leseguianllamandotrinidad.jpg" tvg-name="le seguian llamando trinidad" tvg-url="fMMOFkqGj_0.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/elhombredeladiligencia.jpg" tvg-name="hombre de la diligencia" tvg-url="Ez8_j6DDzlQ.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/unvaqueromuertonoesunvaquero.jpg" tvg-name="vaquero muerto no es vaquero" tvg-url="raRR1C_YF-8.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/ringovuelveparamatar.jpg" tvg-name="ringo vuelve a matar" tvg-url="e_nxEk1G9Kg.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/dueloenelbarro.jpg" tvg-name="duelo en el barro" tvg-url="CCGYDkerli0.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/123disparaestavez.jpg" tvg-name="123disparaestavez" tvg-url="F7Y2sqi_GXM.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/laleydelahorca.jpg" tvg-name="laleydelahorca" tvg-url="jCvCYtlZ49E.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/kidblue.jpg" tvg-name="kidblue" tvg-url="ImGL5OyNVJI.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/eljugador.jpg" tvg-name="eljugador" tvg-url="c_D4pH73BaE.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/danzaconlobos.jpg" tvg-name="danzaconlobos" tvg-url="WGx8LvOsSQ0.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/latumba.jpg" tvg-name="latumba" tvg-url="VnpWsNNS0Z4.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/KirkDouglasOeste.jpg" tvg-name="KirkDouglasOeste" tvg-url="coIuejnBxFg.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/aliadosimprobables.jpg" tvg-name="aliadosimprobables" tvg-url="5YeeIcHEJTo.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/elsheriftraidor.jpg" tvg-name="elsheriftraidor" tvg-url="G40EhRUBYQQ.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/sinperdon.jpg" tvg-name="sinperdon" tvg-url="aDIZcOSdnfc.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/perrossucios.jpg" tvg-name="perrossucios" tvg-url="EE1DNIQ6-go.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/puedesamigo.jpg" tvg-name="puedesamigo" tvg-url="iwQIz7_5oOk.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/fueradetiempo.jpg" tvg-name="fueradetiempo" tvg-url="qlnIqcw-7Sc.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/trinidadysartana.jpg" tvg-name="trinidadysartana" tvg-url="Ej9TvNhZbwk.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/ahorcado.jpg" tvg-name="ahorcado" tvg-url="EkcZ96_G254.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/tuverdugo.jpg" tvg-name="tuverdugo" tvg-url="bh801UK-kv8.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/sangreenlatierra.jpg" tvg-name="sangreenlatierra" tvg-url="1vS_tBbqnIk.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/unacoltenlamanodeldiablo.jpg" tvg-name="unacoltenlamanodeldiablo" tvg-url="4pgIObGuCrY.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/quiengritavenganza.jpg" tvg-name="quiengritavenganza" tvg-url="MfKAyo-.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/legendbillielnino.jpg" tvg-name="legendbillielnino" tvg-url="V56eP9G6698.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/sagitario.jpg" tvg-name="sagitario" tvg-url="Y4TuwWW7lRo.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/westernpeligroso.jpg" tvg-name="westernpeligroso" tvg-url="3LCZsuQ1Dc0.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/westbrother.jpg" tvg-name="westbrother" tvg-url="9jGSejS0mak.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/padremurai.jpg" tvg-name="padremurai" tvg-url="ySHHK11NRzg.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/riomaldito.jpg" tvg-name="riomaldito" tvg-url="3JgPlDGg4RQ.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/colinadebotas.jpg" tvg-name="colinadebotas" tvg-url="UAFo-RkQM3o.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/elborde.jpg" tvg-name="elborde" tvg-url="4sVl6R42v54.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/lagranja.jpg" tvg-name="lagranja" tvg-url="FRK3_OkTyqs.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/otroladodeley.jpg" tvg-name="otroladodeley" tvg-url="fiKg-4XSR3g.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/apachekid.jpg" tvg-name="apachekid" tvg-url="A1d2ew6Y-d0.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/elvengador.jpg" tvg-name="elvengador" tvg-url="HZnHCu2i6Cc.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/fiebredepradera.jpg" tvg-name="" tvg-url="cLpWouaOx8k.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/frankyjessi.jpg" tvg-name="frankyjessi" tvg-url="XrC-6BTNjhM.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/malditoinvierno.jpg" tvg-name="malditoinvierno" tvg-url="-UoUvcu5lGk.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/duelomortal.jpg" tvg-name="duelomortal" tvg-url="cjPkpjqXPN0.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/sinaliento.jpg" tvg-name="sinaliento" tvg-url="Me_J3c2VSdA.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/oromaldito.jpg" tvg-name="oromaldito" tvg-url="4cgD60meH88.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/loquieromuerto.jpg" tvg-name="loquieromuerto" tvg-url="L3CMFyAJP1Y.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/rapidoylamuerte.jpg" tvg-name="rapidoylamuerte" tvg-url="eL2Zj_ODvIE.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/venganzaeneloeste.jpg" tvg-name="venganzaeneloeste" tvg-url="2sebynsktco.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/eltesorodejessijames.jpg" tvg-name="eltesorodejessijames" tvg-url="kDlAI0cScAk.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/mannaja.jpg" tvg-name="mannaja" tvg-url="TAixK1I7zUc.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/shriftmandibula.jpg" tvg-name="shriftmandibula" tvg-url="aDmW2gJWlKs.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/atravesdelhuracan.jpg" tvg-name="atravesdelhuracan" tvg-url="5BPyw9UJvAQ.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/dinamitajoe.jpg" tvg-name="dinamitajoe" tvg-url="tQHKf6zXUlM.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/eltirador.jpg" tvg-name="eltirador" tvg-url="fH1VGUSS4Ec.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/weslegend.jpg" tvg-name="weslegend" tvg-url="z8xorTxs8vo.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/historia2pistolas.jpg" tvg-name="historia2pistolas" tvg-url="ZEeUfXQ-O8Q.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/balasthobs.jpg" tvg-name="balasthobs" tvg-url="rg-0MJlSFMk.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/vidadepistolero.jpg" tvg-name="vidadepistolero" tvg-url="3akhgwkg9aM.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/sinley.jpg" tvg-name="sinley" tvg-url="mXdgzs9TZQ4.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/llanerosol.jpg" tvg-name="llanerosol" tvg-url="i05brRClB5k.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/5forajidos.jpg" tvg-name="5forajidos" tvg-url="nxWSy1UbLRs.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/batalladeearp.jpg" tvg-name="batalladeearp" tvg-url="Ockz1-Eg1uA.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/killerkid.jpg" tvg-name="killerkid" tvg-url="HgjWsQ2ZXnM.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/alambradadeviolencia.jpg" tvg-name="alambradadeviolencia" tvg-url="TFagDpmF4yQ.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/sentencia.jpg" tvg-name="sentencia" tvg-url="w-IszlzEfZo.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/rewcazador.jpg" tvg-name="rewcazador" tvg-url="s9qpHI2U4yo.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/granmclint.jpg" tvg-name="granmclint" tvg-url="kMoZ8YqyIag.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/hickok.jpg" tvg-name="hickok" tvg-url="wydC2NxmXA0.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/pistolamaldita.jpg" tvg-name="pistolamaldita" tvg-url="BvMfVBdIxc4.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/diezhorcas.jpg" tvg-name="diezhorcas" tvg-url="kDzifV2oe4c.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/cazadordedemonios.jpg" tvg-name="cazadordedemonios" tvg-url="bje4lTTXVRM.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/rifledeken.jpg" tvg-name="rifledeken" tvg-url="m6FYVLjaazU.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/fronteradelsur.jpg" tvg-name="fronteradelsur" tvg-url="m72vUx_K92A.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/djangovssartana.jpg" tvg-name="djangovssartana" tvg-url="vgdzl-N7vs0.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/filadecruces.jpg" tvg-name="filadecruces" tvg-url="x1Q3D7ju2bI.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/venganzaindia.jpg" tvg-name="venganzaindia" tvg-url="kwLzgVTG1ik.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/lasjusticieras.jpg" tvg-name="lasjusticieras" tvg-url="mYFfJKBJNU4.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/vidacriminal.jpg" tvg-name="vidacriminal" tvg-url="Q8pIrvjEsDU.ytb"
-group-title="YTBOeste" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/reveldearizona.jpg" tvg-name="reveldearizona" tvg-url="HbOUTU-7Xbg.ytb"
+#EXTLST CANALES DEPORTES
+#EXTINF: nombre="00000000" tipo="deportes" logo="00000000" url="00000000"
 
-/*----------------------------------------------------------------------------------*/
-/*-YTBWars-*/
-/*----------------------------------------------------------------------------------*/
-tvg-name="El Final de la 2° Guerra Mundial" group-title="YTBDocumental" tvg-logo="https://i.ytimg.com/vi/NNrC3TlKuCc/hqdefault.jpg" tvg-url="NNrC3TlKuCc.ytb"
-tvg-name="La Muerte del Mayor Ejército Alemán" group-title="YTBDocumental" tvg-logo="https://i.ytimg.com/vi/MMbXPuksW-g/hqdefault.jpg" tvg-url="MMbXPuksW-g.ytb"
-tvg-name="La ejecución Karl H Frank" group-title="YTBDocumental" tvg-logo="https://i.ytimg.com/vi/MXhVgxe0Iks/hqdefault.jpg" tvg-url="MXhVgxe0Iks.ytb"
-tvg-name="Malvinas" group-title="YTBDocumental" tvg-logo="https://i.ytimg.com/vi/JEofjadnnyY/hqdefault.jpg" tvg-url="JEofjadnnyY.ytb"
-tvg-name="June 6 1944 – The Light of Dawn Documentary" group-title="YTBDocumental" tvg-logo="https://i.ytimg.com/vi/0UJYYkK4d8s/hqdefault.jpg" tvg-url="0UJYYkK4d8s.ytb"
-tvg-name="La guerra del Golfo Pérsico I" group-title="YTBDocumental" tvg-logo="https://i.ytimg.com/vi/F3juZQ6cFWs/hqdefault.jpg" tvg-url="F3juZQ6cFWs.ytb"
-tvg-name="Lugares de la Segunda Guerra" group-title="YTBDocumental" tvg-logo="https://i.ytimg.com/vi/TLm1ydeU0Mw/hqdefault.jpg" tvg-url="TLm1ydeU0Mw.ytb"
-tvg-name="El Día D-alemana" group-title="YTBDocumental" tvg-logo="https://i.ytimg.com/vi/pLUOkuOY1pU/hqdefault.jpg" tvg-url="pLUOkuOY1pU.ytb"
-tvg-name="Alemania después de Hitler" group-title="YTBDocumental" tvg-logo="https://i.ytimg.com/vi/mICSORoM0e4/hqdefault.jpg" tvg-url="mICSORoM0e4.ytb"
-tvg-name="Los Hallazgos-Segunda Guerra" group-title="YTBDocumental" tvg-logo="https://i.ytimg.com/vi/gwp1ixdc4Q8/hqdefault.jpg" tvg-url="gwp1ixdc4Q8.ytb"
-tvg-name="Guerra Mundial 1914-1918" group-title="YTBDocumental" tvg-logo="https://i.ytimg.com/vi/p9q8jkZd4vI/hqdefault.jpg" tvg-url="p9q8jkZd4vI.ytb"
-tvg-name="Tercera guerra mundial" group-title="YTBDocumental" tvg-logo="https://i.ytimg.com/vi/O_rytU26jYU/hqdefault.jpg" tvg-url="O_rytU26jYU.ytb"
-tvg-name="Tercera Guerra Mundial" group-title="YTBDocumental" tvg-logo="https://i.ytimg.com/vi/QocOZkXGIMc/hqdefault.jpg" tvg-url="QocOZkXGIMc.ytb"
-tvg-name="Alemania: Conmemora Guerra" group-title="YTBDocumental" tvg-logo="https://i.ytimg.com/vi/Uvn84GUct78/hqdefault.jpg" tvg-url="Uvn84GUct78.ytb"
-tvg-name="Guerra: la marabunta" group-title="YTBDocumental" tvg-logo="https://i.ytimg.com/vi/NJwZ7j5qB3Y/hqdefault.jpg" tvg-url="NJwZ7j5qB3Y.ytb"
-tvg-name="Cómo Terminó la 1° Guerra" group-title="YTBDocumental" tvg-logo="https://i.ytimg.com/vi/pREjzJJ08DY/hqdefault.jpg" tvg-url="pREjzJJ08DY.ytb"
-tvg-name="La Primera Guerra para niños" group-title="YTBDocumental" tvg-logo="https://i.ytimg.com/vi/MPBRjw7UZYQ/hqdefault.jpg" tvg-url="MPBRjw7UZYQ.ytb"
-tvg-name="La Vida sin Agua" group-title="YTBDocumental" tvg-logo="https://i.ytimg.com/vi/JXYFDDU1HrM/hqdefault.jpg"tvg-url="JXYFDDU1HrM.ytb"
-tvg-name="iberia: La Vida Salvaje" group-title="YTBDocumental" tvg-logo="https://i.ytimg.com/vi/hexRbKyouAo/hqdefault.jpg"tvg-url="hexRbKyouAo.ytb"
-tvg-name="Mayas Secretos Ocultos" group-title="YTBDocumental" tvg-logo="https://i.ytimg.com/vi/VzgBpxyzQN0/hqdefault.jpg"tvg-url="VzgBpxyzQN0.ytb"
-tvg-name="Secretos Egipcios" group-title="YTBDocumental" tvg-logo="https://i.ytimg.com/vi/niKjPvHVHK8/hqdefault.jpg"tvg-url="niKjPvHVHK8.ytb"
-tvg-name="Viaje por las Profundidades" group-title="YTBDocumental" tvg-logo="https://i.ytimg.com/vi/nV3mLoeXc74/hqdefault.jpg"tvg-url="nV3mLoeXc74.ytb"
-tvg-name="Canada Reino de Gigantes" group-title="YTBDocumental" tvg-logo="https://i.ytimg.com/vi/V8UGIQjw0D0/hqdefault.jpg"tvg-url="V8UGIQjw0D0.ytb"
-tvg-name="Maravillas Fascinantes" group-title="YTBDocumental" tvg-logo="https://i.ytimg.com/vi/sLOqk6s-hwU/hqdefault.jpg"tvg-url="sLOqk6s-hwU.ytb"
-tvg-name="Secretos de las Profundidades" group-title="YTBDocumental" tvg-logo="https://i.ytimg.com/vi/knUERVioeog/hqdefault.jpg"tvg-url="knUERVioeog.ytb"
-tvg-name="ILLUMINATI" group-title="YTBDocumental" tvg-logo="https://i.ytimg.com/vi/_pkSnz1zN2M/hqdefault.jpg"tvg-url="_pkSnz1zN2M.ytb"
-tvg-name="AMAZONÍA Secretos de la Selva" group-title="YTBDocumental" tvg-logo="https://i.ytimg.com/vi/qvj5eWBdgCA/hqdefault.jpg"tvg-url="qvj5eWBdgCA.ytb"
-tvg-name="Historia de los Judíos" group-title="YTBDocumental" tvg-logo="https://i.ytimg.com/vi/_ReXiLUZ7vk/hqdefault.jpg"tvg-url="_ReXiLUZ7vk.ytb"
+#EXTLST CANALES MUSICA
+#EXTINF: nombre="00000000" tipo="musica" logo="00000000" url="00000000"
+
+#EXTLST PELICULAS OESTE
+#EXTINF: nombre="00000000" tipo="ytboeste" logo="00000000" url="00000000"
+
+#EXTLST PELICULAS GUERRA
+#EXTINF: nombre="00000000" tipo="ytboguerra" logo="00000000" url="00000000"
+
+#EXTLST PELICULAS FICCION
+#EXTINF: nombre="00000000" tipo="ytboficcion" logo="00000000" url="00000000"
+
+#EXTLST PELICULAS FANTASIA
+#EXTINF: nombre="00000000" tipo="ytbofantasia" logo="00000000" url="00000000"
+
+#EXTLST PELICULAS HORROR
+#EXTINF: nombre="00000000" tipo="ytbohorror" logo="00000000" url="00000000"
+
+#EXTLST PELICULAS COMEDIA
+#EXTINF: nombre="00000000" tipo="ytbocomedia" logo="00000000" url="00000000"
+
+#EXTLST PELICULAS DRAMA
+#EXTINF: nombre="00000000" tipo="ytbodrama" logo="00000000" url="00000000"
+
+#EXTLST PELICULAS ROMANCE
+#EXTINF: nombre="00000000" tipo="ytbromance" logo="00000000" url="00000000"
+
+#EXTLST PELICULAS ROMANCE
+#EXTINF: nombre="00000000" tipo="ytbromance" logo="00000000" url="00000000"
+
+#EXTLST PELICULAS ANIME
+#EXTINF: nombre="00000000" tipo="ytbanime" logo="00000000" url="00000000"
+
+#EXTLST PELICULAS FAMILIAR
+#EXTINF: nombre="00000000" tipo="ytbfamiliar" logo="00000000" url="00000000"
+
+#EXTLST PELICULAS MUSICALES
+#EXTINF: nombre="00000000" tipo="ytbmusicales" logo="00000000" url="00000000"
