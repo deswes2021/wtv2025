@@ -49,10 +49,10 @@
 #EXTINF: nombre="00000000" tipo="ytboeste" logo="ytboeste" url="00000000"
 
 #EXTLST PELICULAS GUERRA
-#EXTINF: nombre="00000000" tipo="ytbguerra" logo="ytboguerra" url="00000000"
+#EXTINF: nombre="00000000" tipo="ytbguerra" logo="ytbguerra" url="00000000"
 
 #EXTLST PELICULAS FICCION
-#EXTINF: nombre="00000000" tipo="ytbficcion" logo="ytboficcion" url="00000000"
+#EXTINF: nombre="00000000" tipo="ytbficcion" logo="ytbficcion" url="00000000"
 
 #EXTLST PELICULAS FANTASIA
 #EXTINF: nombre="00000000" tipo="ytbfantasia" logo="ytbfantasia" url="00000000"
