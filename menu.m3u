@@ -1,2 +1,12 @@
 #EXTM3U
-#EXTINF: nombre="" tipo="" logo="" url="" 
+#EXTINF:  tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/actualizar.jpg" group-title="opciones", actualizar
+actualizar
+#EXTINF: tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/activar.jpg" group-title="opciones", activar
+actualizar
+#EXTINF: tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/borrarcache.jpg" group-title="opciones", borrar cache
+borrarcache
+
+#EXTINF: tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/naccanal1.jpg" group-title="nacional", canal 1
+canal1
+#EXTINF: tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/naccanal2.jpg" group-title="nacional", canal 2
+canal2
