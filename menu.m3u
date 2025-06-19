@@ -22,61 +22,58 @@
 #EXTINF: nombre="canal 21" tipo="nacional" logo="canal21" url="00000000"
 
 #EXTLST CANALES INFANTIL
-#EXTINF: nombre="00000000" tipo="infantil" logo="00000000" url="00000000"
+#EXTINF: nombre="00000000" tipo="infantil" logo="infantil" url="00000000"
 
 #EXTLST CANALES 27x7
-#EXTINF: nombre="00000000" tipo="24x7" logo="00000000" url="00000000"
+#EXTINF: nombre="00000000" tipo="24x7" logo="24x7" url="00000000"
 
 #EXTLST CANALES CULTURA
-#EXTINF: nombre="00000000" tipo="cultura" logo="00000000" url="00000000"
+#EXTINF: nombre="00000000" tipo="cultura" logo="cultura" url="00000000"
 
 #EXTLST CANALES MUNDO
-#EXTINF: nombre="00000000" tipo="mundo" logo="00000000" url="00000000"
+#EXTINF: nombre="00000000" tipo="mundo" logo="mundo" url="00000000"
 
 #EXTLST CANALES NOVELAS
-#EXTINF: nombre="00000000" tipo="novelas" logo="00000000" url="00000000"
+#EXTINF: nombre="00000000" tipo="novela" logo="novela" url="00000000"
 
 #EXTLST CANALES CINE
-#EXTINF: nombre="00000000" tipo="cine" logo="00000000" url="00000000"
+#EXTINF: nombre="00000000" tipo="cine" logo="cine" url="00000000"
 
 #EXTLST CANALES DEPORTES
-#EXTINF: nombre="00000000" tipo="deportes" logo="00000000" url="00000000"
+#EXTINF: nombre="00000000" tipo="deportes" logo="deportes" url="00000000"
 
 #EXTLST CANALES MUSICA
-#EXTINF: nombre="00000000" tipo="musica" logo="00000000" url="00000000"
+#EXTINF: nombre="00000000" tipo="musica" logo="musica" url="00000000"
 
 #EXTLST PELICULAS OESTE
-#EXTINF: nombre="00000000" tipo="ytboeste" logo="00000000" url="00000000"
+#EXTINF: nombre="00000000" tipo="ytboeste" logo="ytboeste" url="00000000"
 
 #EXTLST PELICULAS GUERRA
-#EXTINF: nombre="00000000" tipo="ytboguerra" logo="00000000" url="00000000"
+#EXTINF: nombre="00000000" tipo="ytbguerra" logo="ytboguerra" url="00000000"
 
 #EXTLST PELICULAS FICCION
-#EXTINF: nombre="00000000" tipo="ytboficcion" logo="00000000" url="00000000"
+#EXTINF: nombre="00000000" tipo="ytbficcion" logo="ytboficcion" url="00000000"
 
 #EXTLST PELICULAS FANTASIA
-#EXTINF: nombre="00000000" tipo="ytbofantasia" logo="00000000" url="00000000"
+#EXTINF: nombre="00000000" tipo="ytbfantasia" logo="ytbfantasia" url="00000000"
 
 #EXTLST PELICULAS HORROR
-#EXTINF: nombre="00000000" tipo="ytbohorror" logo="00000000" url="00000000"
+#EXTINF: nombre="00000000" tipo="ytbhorror" logo="ytbhorror" url="00000000"
 
 #EXTLST PELICULAS COMEDIA
-#EXTINF: nombre="00000000" tipo="ytbocomedia" logo="00000000" url="00000000"
+#EXTINF: nombre="00000000" tipo="ytbcomedia" logo="ytbcomedia" url="00000000"
 
 #EXTLST PELICULAS DRAMA
-#EXTINF: nombre="00000000" tipo="ytbodrama" logo="00000000" url="00000000"
+#EXTINF: nombre="00000000" tipo="ytbdrama" logo="ytbdrama" url="00000000"
 
 #EXTLST PELICULAS ROMANCE
-#EXTINF: nombre="00000000" tipo="ytbromance" logo="00000000" url="00000000"
-
-#EXTLST PELICULAS ROMANCE
-#EXTINF: nombre="00000000" tipo="ytbromance" logo="00000000" url="00000000"
+#EXTINF: nombre="00000000" tipo="ytbromance" logo="ytbromance" url="00000000"
 
 #EXTLST PELICULAS ANIME
-#EXTINF: nombre="00000000" tipo="ytbanime" logo="00000000" url="00000000"
+#EXTINF: nombre="00000000" tipo="ytbanime" logo="ytbanime" url="00000000"
 
 #EXTLST PELICULAS FAMILIAR
-#EXTINF: nombre="00000000" tipo="ytbfamiliar" logo="00000000" url="00000000"
+#EXTINF: nombre="00000000" tipo="ytbfamiliar" logo="ytbfamiliar" url="00000000"
 
 #EXTLST PELICULAS MUSICALES
-#EXTINF: nombre="00000000" tipo="ytbmusicales" logo="00000000" url="00000000"
+#EXTINF: nombre="00000000" tipo="ytbmusical" logo="ytbmusical" url="00000000"
