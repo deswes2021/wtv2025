@@ -14,9 +14,14 @@
 #EXTINF: nombre="peliculas oeste" tipo="menu" logo="ytboeste" url="ytboeste"
 #EXTINF: nombre="peliculas de guerra" tipo="menu" logo="ytbguerra" url="ytbguerra"
 #EXTINF: nombre="peliculas de ficcion" tipo="menu" logo="ytbficcion" url="ytbficcion"
-#EXTINF: nombre="peliculas oeste" tipo="menu" logo="ytboeste" url="ytboeste"
-#EXTINF: nombre="peliculas oeste" tipo="menu" logo="ytboeste" url="ytboeste"
-#EXTINF: nombre="peliculas oeste" tipo="menu" logo="ytboeste" url="ytboeste"
+#EXTINF: nombre="peliculas de fantasia" tipo="menu" logo="ytbfantasia" url="ytbfantasia"
+#EXTINF: nombre="peliculas de horror" tipo="menu" logo="ytbhorror" url="ytbhorror"
+#EXTINF: nombre="peliculas de comedia" tipo="menu" logo="ytbcomedia" url="ytbcomedia"
+#EXTINF: nombre="peliculas de drama" tipo="menu" logo="ytbdrama" url="ytbdrama"
+#EXTINF: nombre="peliculas de romance" tipo="menu" logo="ytbromance" url="ytbromance"
+#EXTINF: nombre="peliculas de anime" tipo="menu" logo="ytbanime" url="ytbanime"
+#EXTINF: nombre="peliculas familiares" tipo="menu" logo="ytbfamiliar" url="ytbfamiliar"
+#EXTINF: nombre="peliculas musicales" tipo="menu" logo="ytbmusical" url="ytbmusical"
 
 
 #EXTLST CANALES OPCION
