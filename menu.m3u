@@ -1,6 +1,25 @@
 #EXTM3U
 
 #EXTLST CANALES OPCION
+#EXTINF: nombre="opciones" tipo="menu" logo="opciones" url="opciones"
+#EXTINF: nombre="nacional" tipo="menu" logo="nacional" url="nacional"
+#EXTINF: nombre="infantil" tipo="menu" logo="infantil" url="infantil"
+#EXTINF: nombre="24x7" tipo="menu" logo="24x7" url="24x7"
+#EXTINF: nombre="cultura" tipo="menu" logo="cultura" url="cultura"
+#EXTINF: nombre="mundo" tipo="menu" logo="mundo" url="mundo"
+#EXTINF: nombre="novela" tipo="menu" logo="novela" url="novela"
+#EXTINF: nombre="cine" tipo="menu" logo="cine" url="cine"
+#EXTINF: nombre="deportes" tipo="menu" logo="deportes" url="deportes"
+#EXTINF: nombre="musica" tipo="menu" logo="musica" url="musica"
+#EXTINF: nombre="peliculas oeste" tipo="menu" logo="ytboeste" url="ytboeste"
+#EXTINF: nombre="peliculas de guerra" tipo="menu" logo="ytbguerra" url="ytbguerra"
+#EXTINF: nombre="peliculas de ficcion" tipo="menu" logo="ytbficcion" url="ytbficcion"
+#EXTINF: nombre="peliculas oeste" tipo="menu" logo="ytboeste" url="ytboeste"
+#EXTINF: nombre="peliculas oeste" tipo="menu" logo="ytboeste" url="ytboeste"
+#EXTINF: nombre="peliculas oeste" tipo="menu" logo="ytboeste" url="ytboeste"
+
+
+#EXTLST CANALES OPCION
 #EXTINF: nombre="actualizar" tipo="opcion" logo="actualizar" url="actualizar"
 #EXTINF: nombre="activar" tipo="opcion" logo="activar" url="https://tv.teleclub.xyz/activar"
 #EXTINF: nombre="borrarcache" tipo="opcion" logo="borrarcache" url="borrarcache"
