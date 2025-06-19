@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:  tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/actualizar.jpg" group-title="opciones", actualizar
 actualizar
-#EXTINF: tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/activar.jpg" group-title="opciones", activar
-actualizar
+#EXTINF: tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/activar.jpg" group-title="opciones", activar teleclub
+https://tv.teleclub.xyz/activar
 #EXTINF: tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/borrarcache.jpg" group-title="opciones", borrar cache
 borrarcache
 
