@@ -6,7 +6,32 @@ actualizar
 #EXTINF: tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/borrarcache.jpg" group-title="opciones", borrar cache
 borrarcache
 
-#EXTINF: tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/naccanal1.jpg" group-title="nacional", canal 1
-canal1
-#EXTINF: tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/naccanal2.jpg" group-title="nacional", canal 2
-canal2
+#EXTLST CANALES NACIONALES
+#EXTINF: tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/tvnaccanal1.jpg" group-title="nacional", canal 1
+000000000000
+#EXTINF: tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/tvnaccanal2.jpg" group-title="nacional", canal 2
+000000000000
+#EXTINF: tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/tvnaccanal3.jpg" group-title="nacional", canal 3
+000000000000
+#EXTINF: tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/tvnaccanal4.jpg" group-title="nacional", canal 4
+000000000000
+#EXTINF: tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/tvnaccanal5.jpg" group-title="nacional", canal 5
+000000000000
+#EXTINF: tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/tvnaccanal6.jpg" group-title="nacional", canal 6
+000000000000
+#EXTINF: tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/tvnaccanal7.jpg" group-title="nacional", canal 7
+000000000000
+#EXTINF: tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/tvnaccanal8.jpg" group-title="nacional", canal 8
+000000000000
+#EXTINF: tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/tvnaccanal9.jpg" group-title="nacional", canal 9
+000000000000
+#EXTINF: tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/tvnaccanal10.jpg" group-title="nacional", canal 10
+000000000000
+#EXTINF: tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/tvnaccanal11.jpg" group-title="nacional", canal 11
+000000000000
+#EXTINF: tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/tvnaccanal12.jpg" group-title="nacional", canal 12
+000000000000
+#EXTINF: tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/tvnaccanal19.jpg" group-title="nacional", canal 19
+000000000000
+#EXTINF: tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/tvnaccanal21.jpg" group-title="nacional", canal 21
+000000000000
