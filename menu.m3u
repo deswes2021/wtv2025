@@ -26,5 +26,5 @@ https://raw.githubusercontent.com/deswes2021/wtv2025/main/honduras/honduras.m3u
 https://raw.githubusercontent.com/deswes2021/wtv2025/main/nicaragua/nicaragua.m3u
 #EXTINF: nombre="panama" tipo="panama" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/panama/img/panama.jpg"
 https://raw.githubusercontent.com/deswes2021/wtv2025/main/panama/panama.m3u
-#EXTINF: nombre="espana" tipo="espana" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/espana/img/espana.jpg"
+#EXTINF: nombre="españa" tipo="espana" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/espana/img/espana.jpg"
 https://raw.githubusercontent.com/deswes2021/wtv2025/main/espana/espana.m3u
