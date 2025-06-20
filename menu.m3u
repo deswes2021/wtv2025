@@ -6,3 +6,5 @@ https://raw.githubusercontent.com/deswes2021/wtv2025/main/nacional/nacional.m3u
 https://raw.githubusercontent.com/deswes2021/wtv2025/main/teleclub/teleclub.m3u
 #EXTINF: nombre="argentina" tipo="argentina" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/argentina/img/argentina.jpg"
 https://raw.githubusercontent.com/deswes2021/wtv2025/main/argentina/argentina.m3u
+#EXTINF: nombre="mexico" tipo="mexico" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/mexico/img/mexico.jpg"
+https://raw.githubusercontent.com/deswes2021/wtv2025/main/mexico/mexico.m3u
