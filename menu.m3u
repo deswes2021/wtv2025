@@ -8,3 +8,7 @@ https://raw.githubusercontent.com/deswes2021/wtv2025/main/nacional/nacional.m3u
 https://raw.githubusercontent.com/deswes2021/wtv2025/main/argentina/argentina.m3u
 #EXTINF: nombre="mexico" tipo="mexico" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/mexico/img/mexico.jpg"
 https://raw.githubusercontent.com/deswes2021/wtv2025/main/mexico/mexico.m3u
+#EXTINF: nombre="chile" tipo="chile" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/chile/img/chile.jpg"
+https://raw.githubusercontent.com/deswes2021/wtv2025/main/chile/chile.m3u
+#EXTINF: nombre="colombia" tipo="colombia" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/colombia/img/colombia.jpg"
+https://raw.githubusercontent.com/deswes2021/wtv2025/main/colombia/colombia.m3u
