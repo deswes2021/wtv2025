@@ -1,4 +1,4 @@
 #EXTM3U
 #EXTLST CANALES INFANTIL
-#EXTINF: nombre="nacional" tipo="nacional" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/nacional.jpg" url="nacional.m3u"
-#EXTINF: nombre="teleclub" tipo="teleclub" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/teleclub.jpg" url="teleclub.m3u"
+#EXTINF: nombre="nacional" tipo="nacional" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/nacional/img/nacional.jpg" url="nacional.m3u"
+#EXTINF: nombre="teleclub" tipo="teleclub" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/teleclub/img/teleclub.jpg" url="teleclub.m3u"
