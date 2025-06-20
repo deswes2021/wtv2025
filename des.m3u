@@ -1,4 +1,4 @@
-#EXTLST: NACIONALES
+#EXTM3U
 #EXTINF:-1 tvg-id="tcs-plus" group-title="Nacionales" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/tcs.jpg", TCS +
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
 #EXTINF:-1 tvg-id="canal-2" group-title="Nacionales" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv/main/img/canal2.jpg", Canal 2
