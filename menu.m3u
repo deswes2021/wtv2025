@@ -1,103 +1,103 @@
 #EXTM3U
 
 #EXTLST CANALES OPCION
-#EXTINF: nombre="opcion" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/opcion.JPG" url="opcion"
-#EXTINF: nombre="nacional" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/nacional.JPG" url="nacional"
-#EXTINF: nombre="infantil" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/infantil.JPG" url="infantil"
-#EXTINF: nombre="24x7" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/24x7.JPG" url="24x7"
-#EXTINF: nombre="cultura" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/cultura.JPG" url="cultura"
-#EXTINF: nombre="mundo" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/mundo.JPG" url="mundo"
-#EXTINF: nombre="novela" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/novela.JPG" url="novela"
-#EXTINF: nombre="cine" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/cine.JPG" url="cine"
-#EXTINF: nombre="deportes" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/deportes.JPG" url="deportes"
-#EXTINF: nombre="musica" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/musica.JPG" url="musica"
-#EXTINF: nombre="peliculas oeste" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/ytboeste.JPG" url="ytboeste"
-#EXTINF: nombre="peliculas de guerra" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/ytbguerra.JPG" url="ytbguerra"
-#EXTINF: nombre="peliculas de ficcion" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/ytbficcion.JPG" url="ytbficcion"
-#EXTINF: nombre="peliculas de fantasia" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/ytbfantasia.JPG" url="ytbfantasia"
-#EXTINF: nombre="peliculas de horror" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/ytbhorror.JPG" url="ytbhorror"
-#EXTINF: nombre="peliculas de comedia" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/ytbcomedia.JPG" url="ytbcomedia"
-#EXTINF: nombre="peliculas de drama" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/ytbdrama.JPG" url="ytbdrama"
-#EXTINF: nombre="peliculas de romance" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/ytbromance.JPG" url="ytbromance"
-#EXTINF: nombre="peliculas de anime" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/ytbanime.JPG" url="ytbanime"
-#EXTINF: nombre="peliculas familiares" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/ytbfamiliar.JPG" url="ytbfamiliar"
-#EXTINF: nombre="peliculas musicales" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/ytbmusical.JPG" url="ytbmusical"
+#EXTINF: nombre="opcion" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/opcion.jpg" url="opcion"
+#EXTINF: nombre="nacional" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/nacional.jpg" url="nacional"
+#EXTINF: nombre="infantil" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/infantil.jpg" url="infantil"
+#EXTINF: nombre="24x7" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/24x7.jpg" url="24x7"
+#EXTINF: nombre="cultura" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/cultura.jpg" url="cultura"
+#EXTINF: nombre="mundo" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/mundo.jpg" url="mundo"
+#EXTINF: nombre="novela" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/novela.jpg" url="novela"
+#EXTINF: nombre="cine" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/cine.jpg" url="cine"
+#EXTINF: nombre="deportes" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/deportes.jpg" url="deportes"
+#EXTINF: nombre="musica" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/musica.jpg" url="musica"
+#EXTINF: nombre="peliculas oeste" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/ytboeste.jpg" url="ytboeste"
+#EXTINF: nombre="peliculas de guerra" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/ytbguerra.jpg" url="ytbguerra"
+#EXTINF: nombre="peliculas de ficcion" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/ytbficcion.jpg" url="ytbficcion"
+#EXTINF: nombre="peliculas de fantasia" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/ytbfantasia.jpg" url="ytbfantasia"
+#EXTINF: nombre="peliculas de horror" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/ytbhorror.jpg" url="ytbhorror"
+#EXTINF: nombre="peliculas de comedia" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/ytbcomedia.jpg" url="ytbcomedia"
+#EXTINF: nombre="peliculas de drama" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/ytbdrama.jpg" url="ytbdrama"
+#EXTINF: nombre="peliculas de romance" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/ytbromance.jpg" url="ytbromance"
+#EXTINF: nombre="peliculas de anime" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/ytbanime.jpg" url="ytbanime"
+#EXTINF: nombre="peliculas familiares" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/ytbfamiliar.jpg" url="ytbfamiliar"
+#EXTINF: nombre="peliculas musicales" tipo="menu" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/ytbmusical.jpg" url="ytbmusical"
 
 
 #EXTLST CANALES OPCION
-#EXTINF: nombre="actualizar" tipo="opcion" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/actualizar.JPG" url="actualizar"
-#EXTINF: nombre="activar" tipo="opcion" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/activar.JPG" url="https://tv.teleclub.xyz/activar"
-#EXTINF: nombre="borrarcache" tipo="opcion" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/borrarcache.JPG" url="borrarcache"
+#EXTINF: nombre="actualizar" tipo="opcion" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/actualizar.jpg" url="actualizar"
+#EXTINF: nombre="activar" tipo="opcion" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/activar.jpg" url="https://tv.teleclub.xyz/activar"
+#EXTINF: nombre="borrarcache" tipo="opcion" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/borrarcache.jpg" url="borrarcache"
 
 #EXTLST CANALES NACIONAL
-#EXTINF: nombre="canal 1" tipo="nacional" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/tvnaccanal1.JPG" url="00000000"
-#EXTINF: nombre="canal 2" tipo="nacional" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/tvnaccanal2.JPG" url="00000000"
-#EXTINF: nombre="canal 3" tipo="nacional" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/tvnaccanal3.JPG" url="00000000"
-#EXTINF: nombre="canal 4" tipo="nacional" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/tvnaccanal4.JPG" url="00000000"
-#EXTINF: nombre="canal 5" tipo="nacional" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/tvnaccanal5.JPG" url="00000000"
-#EXTINF: nombre="canal 6" tipo="nacional" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/tvnaccanal6.JPG" url="00000000"
-#EXTINF: nombre="canal 7" tipo="nacional" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/tvnaccanal7.JPG" url="00000000"
-#EXTINF: nombre="canal 8" tipo="nacional" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/tvnaccanal8.JPG" url="00000000"
-#EXTINF: nombre="canal 9" tipo="nacional" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/tvnaccanal9.JPG" url="00000000"
-#EXTINF: nombre="canal 10" tipo="nacional" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/tvnaccanal10.JPG" url="00000000"
-#EXTINF: nombre="canal 11" tipo="nacional" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/tvnaccanal11.JPG" url="00000000"
-#EXTINF: nombre="canal 12" tipo="nacional" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/tvnaccanal12.JPG" url="00000000"
-#EXTINF: nombre="canal 19" tipo="nacional" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/tvnaccanal19.JPG" url="00000000"
-#EXTINF: nombre="canal 21" tipo="nacional" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/tvnaccanal21.JPG" url="00000000"
+#EXTINF: nombre="canal 1" tipo="nacional" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/tvnaccanal1.jpg" url="00000000"
+#EXTINF: nombre="canal 2" tipo="nacional" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/tvnaccanal2.jpg" url="00000000"
+#EXTINF: nombre="canal 3" tipo="nacional" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/tvnaccanal3.jpg" url="00000000"
+#EXTINF: nombre="canal 4" tipo="nacional" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/tvnaccanal4.jpg" url="00000000"
+#EXTINF: nombre="canal 5" tipo="nacional" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/tvnaccanal5.jpg" url="00000000"
+#EXTINF: nombre="canal 6" tipo="nacional" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/tvnaccanal6.jpg" url="00000000"
+#EXTINF: nombre="canal 7" tipo="nacional" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/tvnaccanal7.jpg" url="00000000"
+#EXTINF: nombre="canal 8" tipo="nacional" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/tvnaccanal8.jpg" url="00000000"
+#EXTINF: nombre="canal 9" tipo="nacional" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/tvnaccanal9.jpg" url="00000000"
+#EXTINF: nombre="canal 10" tipo="nacional" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/tvnaccanal10.jpg" url="00000000"
+#EXTINF: nombre="canal 11" tipo="nacional" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/tvnaccanal11.jpg" url="00000000"
+#EXTINF: nombre="canal 12" tipo="nacional" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/tvnaccanal12.jpg" url="00000000"
+#EXTINF: nombre="canal 19" tipo="nacional" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/tvnaccanal19.jpg" url="00000000"
+#EXTINF: nombre="canal 21" tipo="nacional" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/tvnaccanal21.jpg" url="00000000"
 
 #EXTLST CANALES INFANTIL
-#EXTINF: nombre="00000000" tipo="infantil" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/infantil.JPG" url="00000000"
+#EXTINF: nombre="00000000" tipo="infantil" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/infantil.jpg" url="00000000"
 
 #EXTLST CANALES 27x7
-#EXTINF: nombre="00000000" tipo="24x7" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/24x7.JPG" url="00000000"
+#EXTINF: nombre="00000000" tipo="24x7" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/24x7.jpg" url="00000000"
 
 #EXTLST CANALES CULTURA
-#EXTINF: nombre="00000000" tipo="cultura" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/cultura.JPG" url="00000000"
+#EXTINF: nombre="00000000" tipo="cultura" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/cultura.jpg" url="00000000"
 
 #EXTLST CANALES MUNDO
-#EXTINF: nombre="00000000" tipo="mundo" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/mundo.JPG" url="00000000"
+#EXTINF: nombre="00000000" tipo="mundo" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/mundo.jpg" url="00000000"
 
 #EXTLST CANALES NOVELAS
-#EXTINF: nombre="00000000" tipo="novela" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/novela.JPG" url="00000000"
+#EXTINF: nombre="00000000" tipo="novela" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/novela.jpg" url="00000000"
 
 #EXTLST CANALES CINE
-#EXTINF: nombre="00000000" tipo="cine" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/cine.JPG" url="00000000"
+#EXTINF: nombre="00000000" tipo="cine" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/cine.jpg" url="00000000"
 
 #EXTLST CANALES DEPORTES
-#EXTINF: nombre="00000000" tipo="deportes" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/deportes.JPG" url="00000000"
+#EXTINF: nombre="00000000" tipo="deportes" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/deportes.jpg" url="00000000"
 
 #EXTLST CANALES MUSICA
-#EXTINF: nombre="00000000" tipo="musica" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/musica.JPG" url="00000000"
+#EXTINF: nombre="00000000" tipo="musica" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/musica.jpg" url="00000000"
 
 #EXTLST PELICULAS OESTE
-#EXTINF: nombre="00000000" tipo="ytboeste" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/ytboeste.JPG" url="00000000"
+#EXTINF: nombre="00000000" tipo="ytboeste" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/ytboeste.jpg" url="00000000"
 
 #EXTLST PELICULAS GUERRA
-#EXTINF: nombre="00000000" tipo="ytbguerra" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/ytbguerra.JPG" url="00000000"
+#EXTINF: nombre="00000000" tipo="ytbguerra" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/ytbguerra.jpg" url="00000000"
 
 #EXTLST PELICULAS FICCION
-#EXTINF: nombre="00000000" tipo="ytbficcion" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/ytbficcion.JPG" url="00000000"
+#EXTINF: nombre="00000000" tipo="ytbficcion" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/ytbficcion.jpg" url="00000000"
 
 #EXTLST PELICULAS FANTASIA
-#EXTINF: nombre="00000000" tipo="ytbfantasia" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/ytbfantasia.JPG" url="00000000"
+#EXTINF: nombre="00000000" tipo="ytbfantasia" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/ytbfantasia.jpg" url="00000000"
 
 #EXTLST PELICULAS HORROR
-#EXTINF: nombre="00000000" tipo="ytbhorror" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/ytbhorror.JPG" url="00000000"
+#EXTINF: nombre="00000000" tipo="ytbhorror" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/ytbhorror.jpg" url="00000000"
 
 #EXTLST PELICULAS COMEDIA
-#EXTINF: nombre="00000000" tipo="ytbcomedia" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/ytbcomedia.JPG" url="00000000"
+#EXTINF: nombre="00000000" tipo="ytbcomedia" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/ytbcomedia.jpg" url="00000000"
 
 #EXTLST PELICULAS DRAMA
-#EXTINF: nombre="00000000" tipo="ytbdrama" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/ytbdrama.JPG" url="00000000"
+#EXTINF: nombre="00000000" tipo="ytbdrama" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/ytbdrama.jpg" url="00000000"
 
 #EXTLST PELICULAS ROMANCE
-#EXTINF: nombre="00000000" tipo="ytbromance" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/ytbromance.JPG" url="00000000"
+#EXTINF: nombre="00000000" tipo="ytbromance" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/ytbromance.jpg" url="00000000"
 
 #EXTLST PELICULAS ANIME
-#EXTINF: nombre="00000000" tipo="ytbanime" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/ytbanime.JPG" url="00000000"
+#EXTINF: nombre="00000000" tipo="ytbanime" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/ytbanime.jpg" url="00000000"
 
 #EXTLST PELICULAS FAMILIAR
-#EXTINF: nombre="00000000" tipo="ytbfamiliar" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/ytbfamiliar.JPG" url="00000000"
+#EXTINF: nombre="00000000" tipo="ytbfamiliar" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/ytbfamiliar.jpg" url="00000000"
 
 #EXTLST PELICULAS MUSICALES
-#EXTINF: nombre="00000000" tipo="ytbmusical" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/ytbmusical.JPG" url="00000000"
+#EXTINF: nombre="00000000" tipo="ytbmusical" logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/ytbmusical.jpg" url="00000000"
