@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTLST CANALES OPCION
-#EXTINF: nombre="opciones" tipo="menu" logo="opciones" url="opciones"
+#EXTINF: nombre="opcion" tipo="menu" logo="opcion" url="opcion"
 #EXTINF: nombre="nacional" tipo="menu" logo="nacional" url="nacional"
 #EXTINF: nombre="infantil" tipo="menu" logo="infantil" url="infantil"
 #EXTINF: nombre="24x7" tipo="menu" logo="24x7" url="24x7"
