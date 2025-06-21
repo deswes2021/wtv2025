@@ -1,30 +1,30 @@
 
 #EXTM3U
-#EXTINF: group-title="teleclub" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/teleclub/img/teleclub.jpg", teleclub
+#EXTINF: group-title="teleclub" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/teleclub.jpg", teleclub
 https://raw.githubusercontent.com/deswes2021/wtv2025/main/teleclub/teleclub.m3u
-#EXTINF: group-title="nacional" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/elsalvador/img/elsalvador.jpg", El Salvador
+#EXTINF: group-title="nacional" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/elsalvador.jpg", El Salvador
 https://raw.githubusercontent.com/deswes2021/wtv2025/main/nacional/nacional.m3u
-#EXTINF: group-title="argentina" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/argentina/img/argentina.jpg", argentina
+#EXTINF: group-title="argentina" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/argentina.jpg", argentina
 https://raw.githubusercontent.com/deswes2021/wtv2025/main/argentina/argentina.m3u
-#EXTINF: group-title="mexico" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/mexico/img/mexico.jpg", mexico
+#EXTINF: group-title="mexico" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/mexico.jpg", mexico
 https://raw.githubusercontent.com/deswes2021/wtv2025/main/mexico/mexico.m3u
-#EXTINF: group-title="chile" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/chile/img/chile.jpg", chile
+#EXTINF: group-title="chile" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/chile.jpg", chile
 https://raw.githubusercontent.com/deswes2021/wtv2025/main/chile/chile.m3u
-#EXTINF: group-title="colombia" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/colombia/img/colombia.jpg", colombia
+#EXTINF: group-title="colombia" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/colombia.jpg", colombia
 https://raw.githubusercontent.com/deswes2021/wtv2025/main/colombia/colombia.m3u
-#EXTINF: group-title="costarica" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/costarica/img/costarica.jpg", costarica
+#EXTINF: group-title="costarica" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/costarica.jpg", costarica
 https://raw.githubusercontent.com/deswes2021/wtv2025/main/costarica/costarica.m3u
-#EXTINF: group-title="ecuador" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/ecuador/img/ecuador.jpg", ecuador
+#EXTINF: group-title="ecuador" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/ecuador.jpg", ecuador
 https://raw.githubusercontent.com/deswes2021/wtv2025/main/ecuador/ecuador.m3u
-#EXTINF: group-title="peru" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/peru/img/peru.jpg", peru
+#EXTINF: group-title="peru" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/peru.jpg", peru
 https://raw.githubusercontent.com/deswes2021/wtv2025/main/peru/peru.m3u
-#EXTINF: group-title="guatemala" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/guatemala/img/guatemala.jpg", guatemala
+#EXTINF: group-title="guatemala" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/guatemala.jpg", guatemala
 https://raw.githubusercontent.com/deswes2021/wtv2025/main/guatemala/guatemala.m3u
-#EXTINF: group-title="honduras" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/honduras/img/honduras.jpg", honduras
+#EXTINF: group-title="honduras" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/honduras.jpg", honduras
 https://raw.githubusercontent.com/deswes2021/wtv2025/main/honduras/honduras.m3u
-#EXTINF: group-title="nicaragua" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/nicaragua/img/nicaragua.jpg", nicaragua
+#EXTINF: group-title="nicaragua" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/nicaragua.jpg", nicaragua
 https://raw.githubusercontent.com/deswes2021/wtv2025/main/nicaragua/nicaragua.m3u
-#EXTINF: group-title="panama" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/panama/img/panama.jpg", panama
+#EXTINF: group-title="panama" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/panama.jpg", panama
 https://raw.githubusercontent.com/deswes2021/wtv2025/main/panama/panama.m3u
-#EXTINF: group-title="espana" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/espa/img/espa.jpg", españa
+#EXTINF: group-title="espana" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/img/espa.jpg", españa
 https://raw.githubusercontent.com/deswes2021/wtv2025/main/espa/espa.m3u
