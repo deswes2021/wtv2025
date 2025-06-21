@@ -2,7 +2,7 @@
 #EXTM3U
 #EXTINF: group-title="teleclub" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/teleclub/img/teleclub.jpg", teleclub
 https://raw.githubusercontent.com/deswes2021/wtv2025/main/teleclub/teleclub.m3u
-#EXTINF: group-title="nacional" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/ElSalvador/img/ElSalvador.jpg", El Salvador
+#EXTINF: group-title="nacional" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/elsalvador/img/elsalvador.jpg", El Salvador
 https://raw.githubusercontent.com/deswes2021/wtv2025/main/nacional/nacional.m3u
 #EXTINF: group-title="argentina" tvg-logo="https://raw.githubusercontent.com/deswes2021/wtv2025/main/argentina/img/argentina.jpg", argentina
 https://raw.githubusercontent.com/deswes2021/wtv2025/main/argentina/argentina.m3u
